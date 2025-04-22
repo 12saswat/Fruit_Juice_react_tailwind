@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Mango",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/023/330/719/small_2x/fresh-tropical-fruit-smoothie-mango-juice-with-leaves-and-fruits-generative-ai-photo.jpg",
+    "price": "₹120",
+    "rating": 4.5,
+    "vitamins": "Vitamin A, C, E",
+    "description": "Mangoes are loaded with antioxidants and known to promote skin health.",
+    "juices": ["Alphonso Mango", "Kesar Mango", "Totapuri Mango"]
+  },
+  {
+    "id": 2,
+    "name": "Orange",
+    "image": "https://png.pngtree.com/thumb_back/fw800/background/20240329/pngtree-orange-fruit-juice-drink-imagess-art-ai-vitamin-c-image_15696602.jpg",
+    "price": "₹90",
+    "rating": 4.5,
+    "vitamins": "Vitamin C",
+    "description": "Oranges are rich in Vitamin C and help improve immunity.",
+    "juices": ["Classic Orange", "Blood Orange Mix", "Orange Lemonade"]
+  },
+  {
+    "id": 3,
+    "name": "Pineapple",
+    "image": "https://thumb.photo-ac.com/27/272e9f2a27f346e9a2246f20666413ab_t.jpeg",
+    "price": "₹120",
+    "rating": 4.5,
+    "vitamins": "Vitamin B1, C",
+    "description": "Pineapples aid digestion and reduce inflammation.",
+    "juices": ["Tropical Pineapple", "Pineapple Splash", "Citrus Pineapple"]
+  },
+  {
+    "id": 4,
+    "name": "Watermelon",
+    "image": "watermilion.png",
+    "price": "₹90",
+    "rating": 4.3,
+    "vitamins": "Vitamin A, C",
+    "description": "Watermelons are hydrating and refreshing in summers.",
+    "juices": ["Fresh Pressed", "Chilli Watermelon", "Melon Cooler"]
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "image": "apple.jpg",
+    "price": "₹110",
+    "rating": 4.8,
+    "vitamins": "Vitamin A, C",
+    "description": "Apples help with digestion and maintain heart health.",
+    "juices": ["Red Apple Cider", "Green Apple Zing", "Apple Cinnamon"]
+  },
+  {
+    "id": 6,
+    "name": "Pomegranate",
+    "image": "pomegranate.jpg",
+    "price": "₹130",
+    "rating": 4.9,
+    "vitamins": "Vitamin C, K",
+    "description": "Pomegranates are rich in antioxidants and good for blood health.",
+    "juices": ["Pure Pomegranate", "Pomegranate Mint", "Ruby Blend"]
+  },
+  {
+    "id": 7,
+    "name": "Litchi",
+    "image": "litchi.jpg",
+    "price": "₹100",
+    "rating": 4.4,
+    "vitamins": "Vitamin C, B6",
+    "description": "Litchis boost immunity and promote blood circulation.",
+    "juices": ["Litchi Cooler", "Honey Litchi", "Litchi Minty Mix"]
+  },
+  {
+    "id": 8,
+    "name": "Guava",
+    "image": "guava.jpg",
+    "price": "₹85",
+    "rating": 4.2,
+    "vitamins": "Vitamin C, A",
+    "description": "Guavas are rich in dietary fiber and vitamin C.",
+    "juices": ["Guava Punch", "Spicy Guava", "Chilli Guava Juice"]
+  },
+  {
+    "id": 9,
+    "name": "Kiwi",
+    "image": "kiwi.jpg",
+    "price": "₹120",
+    "rating": 4.6,
+    "vitamins": "Vitamin C, E, K",
+    "description": "Kiwis support immune function and skin health.",
+    "juices": ["Kiwi Punch", "Kiwi Lime", "Cool Kiwi"]
+  },
+  {
+    "id": 10,
+    "name": "Strawberry",
+    "image": "strawberry.jpg",
+    "price": "₹125",
+    "rating": 4.7,
+    "vitamins": "Vitamin C, Manganese",
+    "description": "Strawberries are high in antioxidants and great for heart health.",
+    "juices": ["Strawberry Crush", "Strawberry Lemonade", "Strawberry Shake"]
+  },
+  {
+    "id": 11,
+    "name": "Blueberry",
+    "image": "blueberry.jpg",
+    "price": "₹130",
+    "rating": 4.8,
+    "vitamins": "Vitamin C, K",
+    "description": "Blueberries improve memory and reduce DNA damage.",
+    "juices": ["Blueberry Smoothie", "Blueberry Mint", "Berry Punch"]
+  },
+  {
+    "id": 12,
+    "name": "Grapes",
+    "image": "grapes.jpg",
+    "price": "₹95",
+    "rating": 4.5,
+    "vitamins": "Vitamin C, K",
+    "description": "Grapes help with blood pressure and have anti-inflammatory properties.",
+    "juices": ["Grape Fizz", "Green Grape Juice", "Black Grape Twist"]
+  },
+  {
+    "id": 13,
+    "name": "Papaya",
+    "image": "papaya.jpg",
+    "price": "₹85",
+    "rating": 4.1,
+    "vitamins": "Vitamin C, A",
+    "description": "Papayas support digestion and reduce inflammation.",
+    "juices": ["Papaya Blend", "Papaya Punch", "Papaya-Lime"]
+  },
+  {
+    "id": 14,
+    "name": "Banana",
+    "image": "banana.jpg",
+    "price": "₹70",
+    "rating": 4.3,
+    "vitamins": "Vitamin B6, C",
+    "description": "Bananas are great for energy and heart health.",
+    "juices": ["Banana Shake", "Banana Protein Smoothie", "Choco-Banana"]
+  },
+  {
+    "id": 15,
+    "name": "Dragon Fruit",
+    "image": "dragonfruit.jpg",
+    "price": "₹150",
+    "rating": 4.6,
+    "vitamins": "Vitamin C, Iron",
+    "description": "Dragon fruits are rich in antioxidants and support digestion.",
+    "juices": ["Dragon Magic", "Tropical Dragon", "Pink Power"]
+  },
+  {
+    "id": 16,
+    "name": "Chikoo",
+    "image": "chikoo.jpg",
+    "price": "₹90",
+    "rating": 4.2,
+    "vitamins": "Vitamin A, B, C",
+    "description": "Chikoos are great for bones and immunity.",
+    "juices": ["Chikoo Shake", "Chikoo Delight", "Chikoo Choco"]
+  },
+  {
+    "id": 17,
+    "name": "Mulberry",
+    "image": "mulberry.jpg",
+    "price": "₹110",
+    "rating": 4.4,
+    "vitamins": "Vitamin C, K, Iron",
+    "description": "Mulberries help with blood sugar control and are rich in fiber.",
+    "juices": ["Mulberry Mix", "Mulberry Bliss", "Berry Love"]
+  },
+  {
+    "id": 18,
+    "name": "Jamun",
+    "image": "jamun.jpg",
+    "price": "₹100",
+    "rating": 4.5,
+    "vitamins": "Vitamin C, Iron",
+    "description": "Jamun is great for diabetes control and oral health.",
+    "juices": ["Jamun Punch", "Kala Khatta", "Jamun Lemonade"]
+  },
+  {
+    "id": 19,
+    "name": "Peach",
+    "image": "peach.jpg",
+    "price": "₹120",
+    "rating": 4.6,
+    "vitamins": "Vitamin A, C",
+    "description": "Peaches are packed with fiber and antioxidants.",
+    "juices": ["Peach Iced Tea", "Peach Mango", "Peach Mint"]
+  },
+  {
+    "id": 20,
+    "name": "Coconut",
+    "image": "coconut.jpg",
+    "price": "₹115",
+    "rating": 4.7,
+    "vitamins": "Vitamin B6, Iron",
+    "description": "Coconuts hydrate and support heart health.",
+    "juices": ["Tender Coconut", "Coconut Cooler", "Coconut Pineapple"]
+  }
+]
