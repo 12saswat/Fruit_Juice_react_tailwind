@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useContext } from "react";
-import logo from "../Navbar/images/logo.png";
+import React, { useState, useContext } from "react";
+import logo from "./images/logo.png";
 import { HiOutlineBars3 } from "react-icons/hi2";
 import { ImCross } from "react-icons/im";
 import { Link, useLocation } from "react-router-dom";
